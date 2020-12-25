@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-hr080100.vercel.app/api/spotify-playing" alt="Haider Rizvi Spotify Playing" width="350" />](https://open.spotify.com/user/)
+[![Spotify](https://hr080100.vercel.app/api/spotify)](https://open.spotify.com/user/6p2ucyb97pn83ra0xad3rla1y)
 
 ### Connect with me:
 
