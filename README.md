@@ -43,7 +43,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://haiderrizvi.tech)
+➡️ [more blog posts...](https://blogs.haiderrizvi.tech)
 
 ---
 
